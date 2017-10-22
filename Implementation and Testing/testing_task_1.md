@@ -39,7 +39,7 @@ else
 
 
 if func1(3) == false
-  puts "func1(3) passed" #
+  puts "func1(3) passed" 
 else
   puts "func1(3) failed"
   failures = failures + 1 # +=
